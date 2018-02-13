@@ -4,9 +4,10 @@ app.directive('quiz', function(quizFactory) {
     return {
         restrict: 'AE',
         scope: {},
-        templateUrl: 'template.html',
+        templateUrl: '../html/template.html',
         link: function(scope, elem, attrs) {
             scope.start = function() {
+                scope.answered = null;
                 scope.id = 0;
                 scope.quizOver = false;
                 scope.inProgress = true;
@@ -16,7 +17,7 @@ app.directive('quiz', function(quizFactory) {
             scope.reset = function() {
                 scope.inProgress = false;
                 scope.score = 0;
-            }
+            };
 
             scope.getQuestion = function() {
                 var q = quizFactory.getQuestion(scope.id);
@@ -32,11 +33,9 @@ app.directive('quiz', function(quizFactory) {
             };
 
             scope.checkAnswer = function() {
-                if(!$('input[name=answer]:checked').length) return;
+                if(scope.answered == null) return;
 
-                var ans = $('input[name=answer]:checked').val();
-
-                if(ans == scope.options[scope.answer]) {
+                if(scope.answered == scope.options[scope.answer]) {
                     scope.score++;
                     scope.correctAns = true;
                 } else {
@@ -47,13 +46,18 @@ app.directive('quiz', function(quizFactory) {
             };
 
             scope.nextQuestion = function() {
+                scope.answered = null;
                 scope.id++;
                 scope.getQuestion();
-            }
+            };
+
+            scope.setValue = function(option){
+                scope.answered = option;
+            };
 
             scope.reset();
         }
-    }
+    };
 });
 
 app.factory('quizFactory', function() {
