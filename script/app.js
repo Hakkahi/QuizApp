@@ -4,7 +4,7 @@ app.directive('quiz', function(quizFactory) {
     return {
         restrict: 'AE',
         scope: {},
-        templateUrl: '../html/template.html',
+        templateUrl: './html/template.html',
         link: function(scope, elem, attrs) {
             scope.start = function() {
                 scope.answered = null;
