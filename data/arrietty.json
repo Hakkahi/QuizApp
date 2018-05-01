@@ -1,0 +1,465 @@
+{
+    "theme": "Arrietty",
+    "tags": [],
+    "questions": [
+        {
+            "id": "098f6bcd4621d373cade4e832627b4f6",
+            "statement": "",
+            "difficulty": "",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": []
+        },
+        {
+            "id": "0b46d83de3dae097b7d4046f9a138570",
+            "statement": "Comment les h\u00e9ros se rencontrent-ils ?",
+            "difficulty": "5",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Dans le jardin, Arrietty tentant de se cacher d'un chat qui voulait la manger",
+                    "weight": "5"
+                },
+                {
+                    "text": "Dans le jardin, Arrietty tentant de se cacher d'un renard qui voulait la manger",
+                    "weight": "3"
+                },
+                {
+                    "text": "Dans le jardin, Arietty tentant de se cacher d'un chien qui voulait la manger",
+                    "weight": "3"
+                },
+                {
+                    "text": "Dans le jardin, Arietty tentant de se cacher d'une belette qui voulait la manger",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "0f40e460e3645b5f63691132e9cfccfc",
+            "statement": "Qui a compos\u00e9 la BO d'Arrietty ?",
+            "difficulty": "13",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Annie Challan",
+                    "weight": "3"
+                },
+                {
+                    "text": "C\u00e9cile Corbel",
+                    "weight": "5"
+                },
+                {
+                    "text": "Joe Hisaichi",
+                    "weight": "3"
+                },
+                {
+                    "text": "Koji Kondo",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "16de627e83018bb02e7dd6baf38990e4",
+            "statement": "Quelle est la source d'inspiration de l'histoire?",
+            "difficulty": "9",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "La s\u00e9rie de livres anglais \u00ab The Borrowers \u00bb",
+                    "weight": "5"
+                },
+                {
+                    "text": "Le dessin anim\u00e9 \u00ab les Minipouss \u00bb",
+                    "weight": "3"
+                },
+                {
+                    "text": "La s\u00e9rie de livres fran\u00e7ais \"Tobie Lolness\"",
+                    "weight": "3"
+                },
+                {
+                    "text": "La s\u00e9rie de livres anglais \"Le Peuple du Tapis\"",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "39d38ddc4e492a1b71634ff24dc3009d",
+            "statement": "Pourquoi le h\u00e9ros vient-il vivre chez sa grand-m\u00e8re ?",
+            "difficulty": "10",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Pour se reposer apr\u00e8s une maladie",
+                    "weight": "3"
+                },
+                {
+                    "text": "Pour se reposer avant une op\u00e9ration",
+                    "weight": "5"
+                },
+                {
+                    "text": "Pour se reposer apr\u00e8s s'\u00eatre cass\u00e9 la jambe",
+                    "weight": "3"
+                },
+                {
+                    "text": "Pour se reposer avant de retourner \u00e0 l'\u00e9cole",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "3f4ad641569cd98eab72607ef7b9b7bd",
+            "statement": "Par quelle entreprise le film est-il distribu\u00e9 sur le plan international ?",
+            "difficulty": "11",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Disney",
+                    "weight": "5"
+                },
+                {
+                    "text": "Ghibli",
+                    "weight": "3"
+                },
+                {
+                    "text": "Pixar",
+                    "weight": "3"
+                },
+                {
+                    "text": "Warner Bros",
+                    "weight": "2"
+                }
+            ]
+        },
+        {
+            "id": "59b7649d7a48cad09105240910a3176e",
+            "statement": "Pourquoi la famille d'Arrietty est-elle oblig\u00e9e de d\u00e9m\u00e9nager ?",
+            "difficulty": "8",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Parce qu'ils ont \u00e9t\u00e9 d\u00e9couverts.",
+                    "weight": "5"
+                },
+                {
+                    "text": "Parce qu'il y a des travaux",
+                    "weight": "3"
+                },
+                {
+                    "text": "Parce que son p\u00e8re a trouv\u00e9 du travail ailleurs",
+                    "weight": "3"
+                },
+                {
+                    "text": "Parce que le loyer est trop cher",
+                    "weight": "2"
+                }
+            ]
+        },
+        {
+            "id": "76543d3acd04fe9fa7ede1a4b7bf93b0",
+            "statement": "\u00a0Pourquoi sont-ils appel\u00e9s \"chapardeurs\" ?",
+            "difficulty": "2",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Parce qu'ils aiment la charcuterie",
+                    "weight": "3"
+                },
+                {
+                    "text": "Parce qu'ils volent de petits objets",
+                    "weight": "5"
+                },
+                {
+                    "text": "Parce qu'ils ressemblent \u00e0 des chats",
+                    "weight": "3"
+                },
+                {
+                    "text": "Parce qu'ils portent des chapkas",
+                    "weight": "2"
+                }
+            ]
+        },
+        {
+            "id": "8afcae4626ca8bf43cad3af9f261fedb",
+            "statement": "Comment s'appelle le personnage principal ?",
+            "difficulty": "1",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Arrietty",
+                    "weight": "5"
+                },
+                {
+                    "text": "Lucie",
+                    "weight": "3"
+                },
+                {
+                    "text": "Sh\u00f4",
+                    "weight": "3"
+                },
+                {
+                    "text": "Arriette",
+                    "weight": "1"
+                }
+            ]
+        },
+        {
+            "id": "8dd2a04cc4036a474086615aa8c5e8ec",
+            "statement": "Au top de la mode, avec quoi Arrietty s'attache-t-elle les cheveux ?",
+            "difficulty": "6",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Une \u00e9pingle \u00e0 cheveux",
+                    "weight": "3"
+                },
+                {
+                    "text": "Une pince \u00e0 linge",
+                    "weight": "5"
+                },
+                {
+                    "text": "Une \u00e9lastique",
+                    "weight": "3"
+                },
+                {
+                    "text": "Une baguette",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "a5f00e8d46e98afec0cf7e9dda3d42f9",
+            "statement": "Quels sont les deux films Ghibli qui le pr\u00e9c\u00e8dent ?",
+            "difficulty": "12",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Les contes de Terremer et Le ch\u00e2teau ambulant",
+                    "weight": "3"
+                },
+                {
+                    "text": "Ponyo et La colline aux coquelicots",
+                    "weight": "3"
+                },
+                {
+                    "text": "Ponyo et Les contes de Terremer",
+                    "weight": "5"
+                },
+                {
+                    "text": "Le ch\u00e2teau ambulant et mon voisin Totoro",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "ad0234829205b9033196ba818f7a872b",
+            "statement": "",
+            "difficulty": "",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": []
+        },
+        {
+            "id": "b10bab48338e272cf23605e00b8ed835",
+            "statement": "Quelle est la date de sortie d'Arrietty au Japon ?",
+            "difficulty": "15",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Le 18 juin 2010",
+                    "weight": "3"
+                },
+                {
+                    "text": "Le 17 juillet 2010",
+                    "weight": "5"
+                },
+                {
+                    "text": "Le 14 ao\u00fbt 2011",
+                    "weight": "3"
+                },
+                {
+                    "text": "Le 19 mai 2011",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "c8f5a8fea9b502275313e3b63be72147",
+            "statement": "O\u00f9 habite l'h\u00e9ro\u00efne au d\u00e9but du film?",
+            "difficulty": "4",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Dans une maison de poup\u00e9e",
+                    "weight": "3"
+                },
+                {
+                    "text": "Sous la maison de la grand-m\u00e8re",
+                    "weight": "5"
+                },
+                {
+                    "text": "Dans un HLM",
+                    "weight": "1"
+                },
+                {
+                    "text": "Dans une cabane dans la for\u00eat",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "d40f877d054b20d85d165d3235f46d79",
+            "statement": "Quel \u00e2ge a l'h\u00e9roine ?",
+            "difficulty": "7",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "14 ans",
+                    "weight": "5"
+                },
+                {
+                    "text": "17 ans",
+                    "weight": "3"
+                },
+                {
+                    "text": "15 ans",
+                    "weight": "3"
+                },
+                {
+                    "text": "16 ans",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "ef67f59adeb916ca4a167a8b2f60b5c3",
+            "statement": "Par qui le livre original est-il \u00e9crit ?",
+            "difficulty": "14",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Jean Chalopin",
+                    "weight": "3"
+                },
+                {
+                    "text": "Mary Norton",
+                    "weight": "5"
+                },
+                {
+                    "text": "Roald Dahl",
+                    "weight": "3"
+                },
+                {
+                    "text": "Eoin Colfer",
+                    "weight": "3"
+                }
+            ]
+        },
+        {
+            "id": "f6f14b0b0a0d8657c442c6812cfda391",
+            "statement": "Par qui les chapardeurs ne doivent-ils pas \u00eatre vus ?",
+            "difficulty": "3",
+            "author": null,
+            "verified": false,
+            "verifiedby": null,
+            "lastused": null,
+            "nbused": null,
+            "nbright": null,
+            "answers": [
+                {
+                    "text": "Par les animaux",
+                    "weight": "3"
+                },
+                {
+                    "text": "Par les \u00eatres humains",
+                    "weight": "5"
+                },
+                {
+                    "text": "Par les policiers",
+                    "weight": "1"
+                },
+                {
+                    "text": "Par les adultes",
+                    "weight": "3"
+                }
+            ]
+        }
+    ]
+}

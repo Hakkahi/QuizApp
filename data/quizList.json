@@ -1,0 +1,12 @@
+{
+    "list": [
+        {
+            "name": "tata",
+            "file": "tata.json"
+        },
+        {
+            "name": "toto",
+            "file": "toto.json"
+        }
+    ]
+}
